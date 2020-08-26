@@ -5,13 +5,17 @@ Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <h1>
+      <h1
+        class="greeting__Heading-sc-1o9p1f3-0 dNfMQO"
+      >
         React avançado
       </h1>
     </div>
   </body>,
   "container": <div>
-    <h1>
+    <h1
+      class="greeting__Heading-sc-1o9p1f3-0 dNfMQO"
+    >
       React avançado
     </h1>
   </div>,

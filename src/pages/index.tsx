@@ -1,3 +1,5 @@
-export default function Home({ title = 'React Avançado' }) {
-  return <h1>{title}</h1>
+import Greeting from '../components/greeting'
+
+export default function Home() {
+  return <Greeting />
 }
