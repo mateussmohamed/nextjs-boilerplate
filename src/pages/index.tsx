@@ -1,5 +1,3 @@
-import Head from "next/head";
-
-export default function Home() {
-  return <h1> react avançado</h1>;
+export default function Home({ title = 'React Avançado' }) {
+  return <h1>{title}</h1>
 }
