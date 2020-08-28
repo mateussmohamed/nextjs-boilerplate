@@ -5,19 +5,57 @@ Object {
   "asFragment": [Function],
   "baseElement": <body>
     <div>
-      <h1
-        class="greeting__Heading-sc-1o9p1f3-0 dNfMQO"
+      <main
+        class="styles__Wrapper-lstnt1-0 cedmqx"
       >
-        React avançado
-      </h1>
+        <img
+          alt="Imagem de um átomo e React Avançado escrito ao lado."
+          class="styles__Logo-lstnt1-1 isYCES"
+          src="/img/logo.svg"
+        />
+        <h1
+          class="styles__Title-lstnt1-2 dhQoZo"
+        >
+          React Avançado
+        </h1>
+        <h2
+          class="styles__Description-lstnt1-3 gfEPvP"
+        >
+          TypeScript, ReactJS, NextJS e Styled Components
+        </h2>
+        <img
+          alt="Um desenvolvedor de frente para uma tela com código."
+          class="styles__Illustration-lstnt1-4 kFfUJW"
+          src="/img/hero-illustration.svg"
+        />
+      </main>
     </div>
   </body>,
   "container": <div>
-    <h1
-      class="greeting__Heading-sc-1o9p1f3-0 dNfMQO"
+    <main
+      class="styles__Wrapper-lstnt1-0 cedmqx"
     >
-      React avançado
-    </h1>
+      <img
+        alt="Imagem de um átomo e React Avançado escrito ao lado."
+        class="styles__Logo-lstnt1-1 isYCES"
+        src="/img/logo.svg"
+      />
+      <h1
+        class="styles__Title-lstnt1-2 dhQoZo"
+      >
+        React Avançado
+      </h1>
+      <h2
+        class="styles__Description-lstnt1-3 gfEPvP"
+      >
+        TypeScript, ReactJS, NextJS e Styled Components
+      </h2>
+      <img
+        alt="Um desenvolvedor de frente para uma tela com código."
+        class="styles__Illustration-lstnt1-4 kFfUJW"
+        src="/img/hero-illustration.svg"
+      />
+    </main>
   </div>,
   "debug": [Function],
   "findAllByAltText": [Function],
