@@ -28,20 +28,17 @@ Object {
 }
 
 .c1 {
-  width: 25rem;
-  margin-bottom: 2rem;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: rgb(245 81 182);
 }
 
 .c2 {
-  font-size: 2.5rem;
-}
-
-.c3 {
   font-size: 2rem;
   font-weight: 400;
 }
 
-.c4 {
+.c3 {
   margin-top: 3rem;
   width: min(30rem,100%);
 }
@@ -51,24 +48,19 @@ Object {
       <main
         class="c0"
       >
-        <img
-          alt="Imagem de um átomo e React Avançado escrito ao lado."
-          class="c1"
-          src="/img/logo.svg"
-        />
         <h1
-          class="c2"
+          class="c1"
         >
-          React Boilerplate
+          NextJS Boilerplate
         </h1>
         <h2
-          class="c3"
+          class="c2"
         >
           TypeScript, ReactJS, NextJS e Styled Components
         </h2>
         <img
           alt="Um desenvolvedor de frente para uma tela com código."
-          class="c4"
+          class="c3"
           src="/img/hero-illustration.svg"
         />
       </main>
@@ -76,26 +68,21 @@ Object {
   </body>,
   "container": <div>
     <main
-      class="styles__Wrapper-lstnt1-0 cedmqx"
+      class="styles__Wrapper-sc-3rwj10-0 fhCDHZ"
     >
-      <img
-        alt="Imagem de um átomo e React Avançado escrito ao lado."
-        class="styles__Logo-lstnt1-1 isYCES"
-        src="/img/logo.svg"
-      />
       <h1
-        class="styles__Title-lstnt1-2 dhQoZo"
+        class="styles__Title-sc-3rwj10-1 evogkM"
       >
-        React Boilerplate
+        NextJS Boilerplate
       </h1>
       <h2
-        class="styles__Description-lstnt1-3 gfEPvP"
+        class="styles__Description-sc-3rwj10-2 hRXpSC"
       >
         TypeScript, ReactJS, NextJS e Styled Components
       </h2>
       <img
         alt="Um desenvolvedor de frente para uma tela com código."
-        class="styles__Illustration-lstnt1-4 kFfUJW"
+        class="styles__Illustration-sc-3rwj10-3 eopIZ"
         src="/img/hero-illustration.svg"
       />
     </main>

@@ -7,7 +7,7 @@ describe('<Greeting>', () => {
     render(<Greeting />)
 
     expect(
-      screen.getByRole('heading', { name: /react boilerplate/i })
+      screen.getByRole('heading', { name: /nextjs boilerplate/i })
     ).toBeInTheDocument()
   })
 

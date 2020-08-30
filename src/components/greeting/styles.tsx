@@ -13,13 +13,10 @@ export const Wrapper = styled.main`
   justify-content: center;
 `
 
-export const Logo = styled.img`
-  width: 25rem;
-  margin-bottom: 2rem;
-`
-
 export const Title = styled.h1`
-  font-size: 2.5rem;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: rgb(245 81 182);
 `
 
 export const Description = styled.h2`
