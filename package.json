@@ -10,7 +10,8 @@
     "test": "jest",
     "test:watch": "yarn test --watch",
     "storybook": "start-storybook -s ./public -p 6006",
-    "build-storybook": "build-storybook -s ./public"
+    "build-storybook": "build-storybook -s ./public",
+    "plop:generate": "yarn plop --plopfile plop/plopfile.js"
   },
   "husky": {
     "hooks": {
@@ -54,6 +55,7 @@
     "jest": "^26.4.2",
     "jest-styled-components": "^7.0.3",
     "lint-staged": "^10.2.13",
+    "plop": "^2.7.4",
     "prettier": "^2.1.1",
     "react-is": "^16.13.1",
     "typescript": "^4.0.2"
