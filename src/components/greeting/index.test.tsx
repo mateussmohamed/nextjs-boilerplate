@@ -20,6 +20,8 @@ describe('<Greeting>', () => {
   it('should render the colors correctly', () => {
     const { container } = render(<Greeting />)
 
-    expect(container.firstChild).toHaveStyle({ 'background-color': '#06092b' })
+    expect(container.firstChild).toHaveStyle({
+      'background-color': 'background-color: rgb(6, 9, 43)'
+    })
   })
 })
