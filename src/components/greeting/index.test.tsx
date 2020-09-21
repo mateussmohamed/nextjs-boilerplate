@@ -21,7 +21,7 @@ describe('<Greeting>', () => {
     const { container } = render(<Greeting />)
 
     expect(container.firstChild).toHaveStyle({
-      'background-color': 'background-color: rgb(6, 9, 43)'
+      'background-color': '#06092b'
     })
   })
 })
