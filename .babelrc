@@ -5,7 +5,7 @@
       "babel-plugin-styled-components",
       {
         "ssr": true,
-        "displatName": true
+        "displayName": true
       }
     ]
   ],
