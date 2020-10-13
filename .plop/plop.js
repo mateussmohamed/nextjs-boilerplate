@@ -17,7 +17,7 @@ module.exports = (plop) => {
       {
         type: 'add',
         path: '../src/components/{{kebabCase name}}/styles.ts',
-        templateFile: 'templates/styles.ts.hbs'
+        templateFile: 'templates/styles.tsx.hbs'
       },
       {
         type: 'add',
