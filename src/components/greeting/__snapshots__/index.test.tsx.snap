@@ -68,21 +68,21 @@ Object {
   </body>,
   "container": <div>
     <main
-      class="sc-bdnylx gWMgJd"
+      class="sc-bdfBwQ lipfOp"
     >
       <h1
-        class="sc-gtssRu gmkUDb"
+        class="sc-gsTCUz cxsQXi"
       >
         NextJS Boilerplate
       </h1>
       <h2
-        class="sc-dlnjPT dqfpps"
+        class="sc-dlfnbm XmnhS"
       >
         TypeScript, ReactJS, NextJS e Styled Components
       </h2>
       <img
         alt="Um desenvolvedor de frente para uma tela com código."
-        class="sc-hKFyIo hmegJC"
+        class="sc-hKgILt ieXcQo"
         src="/img/hero-illustration.svg"
       />
     </main>
